@@ -17,13 +17,15 @@
   - [Questions](#Questions)
 
   ## Installation
-        For installation run "npm init -y" to initialise packages, then run npm install inquirer. Ensure the dependencies are upto-date.
+        For installation run "npm init -y" to initialise packages.
+        Run npm install inquirer. Ensure the dependencies are upto-date.
 
   ## Usage
         Use application integrated Terminal and run "node index.js"
 
   ## Contributing
-        Fork the repo on Github and clone project to your local machine.Commit all changes and submit pull request.
+        Fork the repo on Github and clone project to your local machine.
+        Commit all changes and submit pull request.
 
   ## Tests
         To run tests run the command node index.js in your bash terminal
