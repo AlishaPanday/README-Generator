@@ -27,7 +27,7 @@ inquirer.prompt([
     },
     {
         type: 'input',
-        message:'Provide instructions and exmaple for use.Include screenshots as needed:' ,
+        message:'Provide instructions for usage:' ,
         name: 'Usage'
     },
 
@@ -101,7 +101,7 @@ inquirer.prompt([
         ${response.installation}
 
   ## Usage
-        ${response.usage}
+        ${response.Usage}
 
   ## Contributing
         ${response.Contributing}
